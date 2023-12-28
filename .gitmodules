@@ -1,0 +1,3 @@
+[submodule "C1GamesStarterKit"]
+	path = C1GamesStarterKit
+	url = https://github.com/correlation-one/C1GamesStarterKit.git
