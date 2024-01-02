@@ -5,7 +5,8 @@ Description: My attempts/research into the terminal challenge and apply differen
 
 ### Notes:
 
- - This game does support a local "offline" mode (see the README.md in the Starter Algorithm repo). The only caveat is that it requires Java (JDK v10+ according to the README.md).
+ - This game does support a local "offline" mode (see the README.md in the Starter Algorithm repo). The only caveat is that it requires Java (JDK v10+ according to the README.md). However, this "offline" mode does NOT include a local replay viewer.
+ - I created a `Dockerfile` to build the necessary environment to run the game.
 
 
 ### References:
